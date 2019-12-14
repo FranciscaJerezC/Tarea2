@@ -43,7 +43,7 @@
 	"Map.h"
 	"funciones.h"
 
-1571170258 source:c:\users\francisca jerez\desktop\tarea2punchi\funciones.c
+1575857314 source:c:\users\francisca jerez\desktop\tarea2punchi\funciones.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -51,11 +51,11 @@
 	"Map.h"
 	"funciones.h"
 
-1571170258 c:\users\francisca jerez\desktop\tarea2punchi\map.h
+1572214339 c:\users\francisca jerez\desktop\tarea2punchi\map.h
 
-1571170258 c:\users\francisca jerez\desktop\tarea2punchi\funciones.h
+1575839618 c:\users\francisca jerez\desktop\tarea2punchi\funciones.h
 
-1571170588 source:c:\users\francisca jerez\desktop\tarea2punchi\main.c
+1575852103 source:c:\users\francisca jerez\desktop\tarea2punchi\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -63,11 +63,95 @@
 	"Map.h"
 	"funciones.h"
 
-1571170258 source:c:\users\francisca jerez\desktop\tarea2punchi\map.c
+1572214344 source:c:\users\francisca jerez\desktop\tarea2punchi\map.c
 	"Map.h"
 	<math.h>
 	<string.h>
 	<stdlib.h>
 	<stdint.h>
 	<assert.h>
+
+1572214344 source:c:\users\lobos\onedrive\escritorio\tarea2 fran\tarea2punchi\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1572214339 c:\users\lobos\onedrive\escritorio\tarea2 fran\tarea2punchi\map.h
+
+1575986050 source:c:\users\lobos\onedrive\escritorio\tarea2 fran\tarea2punchi\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
+
+1575934321 c:\users\lobos\onedrive\escritorio\tarea2 fran\tarea2punchi\funciones.h
+
+1575986017 source:c:\users\lobos\onedrive\escritorio\tarea2 fran\tarea2punchi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
+
+1572232346 source:c:\users\tomax\onedrive\documentos\escritorio\tarea2punchi\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1572232340 c:\users\tomax\onedrive\documentos\escritorio\tarea2punchi\map.h
+
+1576286920 source:c:\users\tomax\onedrive\documentos\escritorio\tarea2punchi\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
+
+1575952322 c:\users\tomax\onedrive\documentos\escritorio\tarea2punchi\funciones.h
+
+1576286920 source:c:\users\tomax\onedrive\documentos\escritorio\tarea2punchi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
+
+1572232346 source:c:\users\mt352\onedrive\escritorio\tareaa\obj\tarea2punchi\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1572232340 c:\users\mt352\onedrive\escritorio\tareaa\obj\tarea2punchi\map.h
+
+1576292219 source:c:\users\mt352\onedrive\escritorio\tareaa\obj\tarea2punchi\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
+
+1575952322 c:\users\mt352\onedrive\escritorio\tareaa\obj\tarea2punchi\funciones.h
+
+1576293201 source:c:\users\mt352\onedrive\escritorio\tareaa\obj\tarea2punchi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"funciones.h"
 
